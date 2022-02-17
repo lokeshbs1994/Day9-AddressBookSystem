@@ -85,6 +85,9 @@ public class Person {
         this.email = email;
     }
 
+    Person(){
+
+    }
 
     public Person(String firstName2, String lastName2, String address2, String city2, String state2, String email2,
                   int zip2, long phoneNumber2) {
